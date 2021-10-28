@@ -6,8 +6,8 @@
 
 <script>
 import Residencia from './components/Residencia'
-  
-  export default {
-    components: {Residencia,},  
-  }
+
+export default {
+    components: { Residencia, },
+}
 </script>
